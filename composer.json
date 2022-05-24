@@ -1,0 +1,11 @@
+{
+    "name": "georg/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Georgy Fester",
+            "email": "perelygingeorgiy@mail.ru"
+        }
+    ],
+    "require": {}
+}
